@@ -1,6 +1,6 @@
 Here's a brief preview of the representation: https://www.youtube.com/watch?v=XEjjA1ysRXM
 You'll need the following libraries to run the app: OpenGL, glew, freeglut, SOIL, and SFML audio.
-SFML audio will be automatically downloaded via makefile.
+SFML audio can also be installed via makefile.
 
 # Hotkeys:
 Arrow_up and arrow_down to zoom in/out.
