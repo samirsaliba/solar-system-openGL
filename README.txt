@@ -1,3 +1,18 @@
+Here's a brief preview of the representation: https://www.youtube.com/watch?v=XEjjA1ysRXM
+You'll need the following libraries to run the app: OpenGL, glew, freeglut, SOIL, and SFML audio.
+SFML audio will be automatically downloaded via makefile.
+
+# Hotkeys:
+Arrow_up and arrow_down to zoom in/out.
+0 to show/hide orbits.
+L to activate/deactivate the point light.
+C to switch cameras.
+1, 2, 3, 5, ..., 9 to switch between planets.
+4 key to focus on a special object, in this case a cube that has a different color for each of its faces.
+Arrow keys to move the current camera.
+Esc to close the program.
+
+-----------------------------------------------------------------------------------------
 ## Nome da dupla: Samir e Pedro
 
 # Considerações sobre o trabalho:
